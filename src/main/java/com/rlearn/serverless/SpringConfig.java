@@ -1,4 +1,4 @@
-package com.leaggo.serverless;
+package com.rlearn.serverless;
 
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;

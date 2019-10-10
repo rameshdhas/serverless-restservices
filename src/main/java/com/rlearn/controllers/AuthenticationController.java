@@ -1,4 +1,4 @@
-package com.leaggo.controllers;
+package com.rlearn.controllers;
 
 public class AuthenticationController {
 
