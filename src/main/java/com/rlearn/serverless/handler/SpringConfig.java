@@ -7,7 +7,7 @@ import org.springframework.web.servlet.config.annotation.EnableWebMvc;
 
 @Configuration
 @EnableWebMvc
-@ComponentScan(basePackages = {"com.leaggo.controllers"})
+@ComponentScan(basePackages = {"com.rlearn.serverless.controllers"})
 @ImportResource({"classpath:services-context.xml", "classpath:security-context.xml" })
 public class SpringConfig {
 
