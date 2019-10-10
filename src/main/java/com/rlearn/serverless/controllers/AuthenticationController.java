@@ -1,4 +1,4 @@
-package com.rlearn.controllers;
+package com.rlearn.serverless.controllers;
 
 public class AuthenticationController {
 

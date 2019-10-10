@@ -1,4 +1,4 @@
-package com.rlearn.serverless;
+package com.rlearn.serverless.handler;
 
 import com.amazonaws.serverless.exceptions.ContainerInitializationException;
 import com.amazonaws.serverless.proxy.model.AwsProxyRequest;
