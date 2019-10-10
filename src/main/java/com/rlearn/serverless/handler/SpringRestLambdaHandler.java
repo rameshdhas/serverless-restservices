@@ -7,7 +7,7 @@ import com.amazonaws.serverless.proxy.spring.SpringLambdaContainerHandler;
 import com.amazonaws.services.lambda.runtime.Context;
 import com.amazonaws.services.lambda.runtime.RequestHandler;
 
-public class SpringBootRestLambdaHandler implements RequestHandler<AwsProxyRequest, AwsProxyResponse>{
+public class SpringRestLambdaHandler implements RequestHandler<AwsProxyRequest, AwsProxyResponse>{
 
 	private static SpringLambdaContainerHandler<AwsProxyRequest, AwsProxyResponse> handler = null;
 	
